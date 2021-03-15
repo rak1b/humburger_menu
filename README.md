@@ -7,6 +7,7 @@ Tasty CSS-animated hamburgers
 I have just Customized it for my use,so that i don't have to touch the humburger.css file
 
 Just define this variable in main css folder:
+    <br>
   --hum__color: var(--green);
     <br>
   --hum_width: 4rem;
