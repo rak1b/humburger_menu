@@ -8,8 +8,13 @@ I have just Customized it for my use,so that i don't have to touch the humburger
 
 Just define this variable in main css folder:
   --hum__color: var(--green);
+  <br>
   --hum_width: 4rem;
+    <br>
+
   --hum_height: 0.2rem;
+    <br>
+
   --hum_before_width: 5rem;
   --hum_before_height: 0.2rem;
   --hum_after_width: 5rem;
